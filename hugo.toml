@@ -1,0 +1,4 @@
+baseURL = 'https://bharathgunapati.com/'
+languageCode = 'en-us'
+title = 'Bharath Gunapati'
+theme = 'PaperMod'
